@@ -17,6 +17,8 @@ Analysis of this particular example is provided by Jupyter Notebook.
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-3713/)
 [![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/)
 
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 [<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
@@ -29,17 +31,26 @@ Analysis of this particular example is provided by Jupyter Notebook.
 
 ## Installation Guide
 
-### To install questionary, simply run this command in your terminal of choice:
-```python
-$ pip install questionary
+### The easiest way to install JupyterLab is to download the Anaconda application.
+https://www.anaconda.com/products/distribution
+
+### To install Juypter Lab with pip:
 ```
-### To install fire, simply run this command in your terminal of choice:
-```python
-$ pip install fire
+$ pip install jupyterlab
 ```
-### To install tabulate, simply run this command in your terminal of choice:
-```python
-$ pip install tabulate
+### Then install Jupyter Notebook with pip:
+```
+$ pip install notebook
+```
+
+### To install NumbPy with pip:
+```
+$ pip install numpy
+```
+
+### To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
+```
+$ import pandas
 ```
 
 ---
