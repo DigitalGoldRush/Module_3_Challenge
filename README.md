@@ -52,6 +52,10 @@ $ pip install numpy
 ```
 $ import pandas
 ```
+### Mathplot library will need to be installed. Using pip:
+```
+$ pip install mathplotlib
+```
 
 ---
 
