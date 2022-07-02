@@ -72,49 +72,6 @@ import questionary
 answer = questionary.text("What's your first name?").ask()
 ```
 
-## [Fire Usage](https://github.com/google/python-fire/commit/9f9630ac871138c04c8654eb46d66ca0a2f70b7c) 
-You can call `Fire` on any Python object:<br>
-functions, classes, modules, objects, dictionaries, lists, tuples, etc.
-
-Here is a simple example from the fire-github.
-
-```python
-import fire
-class Calculator(object):
-  """A simple calculator class."""
-  def double(self, number):
-    return 2 * number
-if __name__ == '__main__':
-  fire.Fire(Calculator)
-```
-
-## [Tabulate Usage](https://pypi.org/project/tabulate/)
-
-### Use tabulate to print small tables with just one function call. The formating is guided by the data itself.
-```python
->>> from tabulate import tabulate
-
->>> table = [["Sun",696000,1989100000],["Earth",6371,5973.6],
-...          ["Moon",1737,73.5],["Mars",3390,641.85]]
->>> print(tabulate(table))
------  ------  -------------
-Sun    696000     1.9891e+09
-Earth    6371  5973.6
-Moon     1737    73.5
-Mars     3390   641.85
------  ------  -------------
-```
-### Optional argument named `headers` will provide column headers:<br>
-```python
->>> print(tabulate(table, headers=["Planet","R (km)", "mass (x 10^29 kg)"]))
-Planet      R (km)    mass (x 10^29 kg)
---------  --------  -------------------
-Sun         696000           1.9891e+09
-Earth         6371        5973.6
-Moon          1737          73.5
-Mars          3390         641.85
-```
-
 ---
 ## Contributors
 
