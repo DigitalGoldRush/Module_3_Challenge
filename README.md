@@ -1,11 +1,14 @@
 # Bitcoin Arbitrage Opportunities 
 
 This user-friendly app will help the operator find Arbitrage opportunities for Bitcoin. 
+
 Historical data is gathered from Bitstamp & Coinbase Exchanges.
+
 Application of three fundamental phases of financial analysis will help find investment opportunities.
+
 Analysis of this particular example is provided by Jupyter Notebook.
- 
-![<img src="http://url/image.png" style=" width:10px ; height:10px "  >](https://m.foolcdn.com/media/affiliates/images/Loan_paperwork_money.width-1200.jpg)
+
+![<img src="http://url/image.png" style=" width:10px ; height:10px " >](https://assets-global.website-files.com/5cc1a690df4e901766e92dcd/5eec416fccc6ff9b674088cf_crypto-trading-p-800.jpeg)
 
 ---
 
