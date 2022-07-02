@@ -17,8 +17,7 @@ Analysis of this particular example is provided by Jupyter Notebook.
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-3713/)
 [![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/)
 
-[<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> ](https://code.visualstudio.com/)
-
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 [<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-Questionary-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://questionary.readthedocs.io/en/stable/index.html)
 
