@@ -21,8 +21,6 @@ Analysis of this particular example is provided by Jupyter Notebook.
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-[<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
-
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
