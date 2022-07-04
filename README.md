@@ -14,8 +14,8 @@ Analysis of this particular example is provided by Jupyter Notebook.
 
 ## Technology Used
 
-[![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-3713/)
-[![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/)
+[![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3912/)
+[![Python](https://img.shields.io/badge/Python-3.9.12-blue)](https://www.python.org/downloads/release/python-3912/)
 
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
@@ -41,38 +41,31 @@ $ pip install jupyterlab
 $ pip install notebook
 ```
 
-### To install NumbPy with pip:
-```
-$ pip install numpy
-```
-
 ### To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
 ```
-### Mathplot library will need to be installed. Using pip:
+### Mathplotlib will need to be installed using pip:
 ```
 $ pip install mathplotlib
 ```
 
 ---
 
-## [Questionary Usage](https://questionary.readthedocs.io/en/stable/pages/types.html)
+## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
 
-### Use questionary to ask a single question
-```python
-import questionary
-question = questionary.text("What's your first name?")
-```
-### Need to prompt the user to answer it:
-```python
-answer = question.ask()
-```
-### You can concatonate creating and asking the question in a single line for simplicity:
-```python
-import questionary
-answer = questionary.text("What's your first name?").ask()
-```
+### Pandas has many features, which was used in the code creation, and can be found at the link above. 
+
+
+## [Mathplotlib](https://matplotlib.org/stable/index.html)
+
+### Features used:
+
+### Basic Plot
+[![Basic Plot](https://matplotlib.org/stable/_images/sphx_glr_plot_001.png)](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
+
+### Box Plot
+[![Box Plot](https://matplotlib.org/stable/_images/sphx_glr_boxplot_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
 
 ---
 ## Contributors
