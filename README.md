@@ -41,11 +41,6 @@ $ pip install jupyterlab
 $ pip install notebook
 ```
 
-### To install NumbPy with pip:
-```
-$ pip install numpy
-```
-
 ### To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
@@ -57,21 +52,23 @@ $ pip install mathplotlib
 
 ---
 
-## [Questionary Usage](https://questionary.readthedocs.io/en/stable/pages/types.html)
+## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
 
-### Use questionary to ask a single question
+### Pandas has many features, which was used in the code creation, and can be found at the link above. 
+
+
+## [Mathplotlib](https://matplotlib.org/stable/index.html)
+
+### Features used:
+####  [Basic plot](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
+####  [Box Plot](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
+
+
+
+
 ```python
 import questionary
 question = questionary.text("What's your first name?")
-```
-### Need to prompt the user to answer it:
-```python
-answer = question.ask()
-```
-### You can concatonate creating and asking the question in a single line for simplicity:
-```python
-import questionary
-answer = questionary.text("What's your first name?").ask()
 ```
 
 ---
