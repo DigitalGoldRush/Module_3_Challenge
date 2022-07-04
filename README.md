@@ -14,8 +14,8 @@ Analysis of this particular example is provided by Jupyter Notebook.
 
 ## Technology Used
 
-[![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-3713/)
-[![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/)
+[![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3912/)
+[![Python](https://img.shields.io/badge/Python-3.9.12-blue)](https://www.python.org/downloads/release/python-3912/)
 
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
@@ -45,7 +45,7 @@ $ pip install notebook
 ```
 $ import pandas
 ```
-### Mathplot library will need to be installed. Using pip:
+### Mathplotlib will need to be installed using pip:
 ```
 $ pip install mathplotlib
 ```
@@ -60,16 +60,12 @@ $ pip install mathplotlib
 ## [Mathplotlib](https://matplotlib.org/stable/index.html)
 
 ### Features used:
-####  [Basic plot](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
-####  [Box Plot](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
 
+### Basic Plot
+[![Basic Plot](https://matplotlib.org/stable/_images/sphx_glr_plot_001.png)](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
 
-
-
-```python
-import questionary
-question = questionary.text("What's your first name?")
-```
+### Box Plot
+[![Box Plot](https://matplotlib.org/stable/_images/sphx_glr_boxplot_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
 
 ---
 ## Contributors
